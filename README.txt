@@ -1,12 +1,13 @@
-CS110 WEEK 2: DOME SIGNAL STARTER
+# Dome Signal Starter
 
-1. Keep index.html, style.css, and script.js in this folder.
-2. Open the complete folder in Visual Studio Code.
-3. Follow the required video tutorial.
-4. Replace the sample content with the Kairova dome signal.
-5. Complete the JavaScript button behavior.
-6. Test the page in a browser.
-7. Use Visual Studio Code Source Control to save the project with Git and
-   publish it to GitHub.
+## Project description
+- Dome Signal is a webpage built for checking Kairova status.
+- Uses HTML, CSS, and JavaScript.
+- Responsive styling with JS to update Kairova status on click.
+- Features readable and accessible UI/UX.
 
-Return to the Week 2 assignment for the complete requirements and Canvas link.
+# Awaiting status
+<img src="awaiting-status.jpeg" alt="awaiting status screenshot" width="500">
+
+# Online status
+<img src="online-status.jpeg" alt="online status screenshot" width="500">
